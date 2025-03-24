@@ -1,0 +1,112 @@
+/* Basic reset to ensure consistent styling across browsers */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Body styling */
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  /* Container for the entire app */
+  .app-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Title styling */
+  .app-title {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #0056b3;
+    font-size: 2.5em;
+  }
+  
+  /* Styling for the Nav */
+  .nav-container {
+    width: 250px;
+    background-color: #222;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    position: fixed;
+    top: 100px;
+    left: 20px;
+    bottom: 20px;
+  }
+  
+  .nav-title {
+    text-align: center;
+    font-size: 1.6em;
+    margin-bottom: 20px;
+  }
+  
+  .nav-list {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .nav-item {
+    margin: 10px 0;
+    cursor: pointer;
+  }
+  
+  .nav-link {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2em;
+    display: block;
+    padding: 10px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .nav-link:hover {
+    background-color: #0056b3;
+    border-radius: 5px;
+  }
+  
+  /* Styling for the Truck details section */
+  .truck-details {
+    margin-left: 300px; /* To avoid overlap with nav */
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .truck-title {
+    font-size: 2em;
+    color: #333;
+  }
+  
+  .truck-tagline,
+  .truck-description {
+    font-size: 1.2em;
+    line-height: 1.6;
+    color: #555;
+    margin-bottom: 20px;
+  }
+  
+  .truck-image {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  /* Styling for "Select a truck to view" */
+  .truck-placeholder {
+    font-size: 1.2em;
+    color: #888;
+    text-align: center;
+    padding: 20px;
+  }
+  

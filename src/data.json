@@ -1,0 +1,38 @@
+[
+    {
+      "model": "K200",
+      "tagline": "A Trucking Icon",
+      "content": "The Kenworth K200 cab-over is the perfect choice when it comes to maximising your bottom line for B - Double applications.The K200 provides operators with exceptional productivity through Application Engineering, power and versatility.Simply put you can haul bigger loads with greater ease and efficiency.Suited to most applications, the K200 is ideal for up to 26m B- Double and B - Triple applications.For the driver, the K200 defines interior space and comfort, delivering easy sleeper access and room to move with a near flat floor.",
+      "image": "https://tuhakarainab.github.io/kenworth_files/k200.jpg"
+    },
+    {
+      "model": "T509",
+      "tagline": "RUGGED, RELIABLE AND TOUGH",
+      "content": "The T509 has the versatility and power to operate in applications ranging from general freight to logging, mining or livestock haulage, on or off the highway in single or multiple trailer configurations.Supreme performance combined with comfort and safety make the T509 one of the most versatile trucks on or off the road.",
+      "image": "https://tuhakarainab.github.io/kenworth_files/c509.jpg"
+    },
+    {
+      "model": "T610",
+      "tagline": "THIS IS WHERE THE NEW ERA BEGINS",
+      "content": "Its on-road presence is bold. Its aerodynamics are advanced. The DNA is unmistakable—this new T610 is every inch a Kenworth.And with up to 600Hp at your disposal, it’s ready for whatever task lies ahead.Inside, the T610 introduces a revolutionary new dimension in driver comfort and ergonomics.More spacious, better equipped and manufactured to the most exacting quality standards in Kenworth’s history, its new enhanced cabin delivers the ultimate driver experience.",
+      "image": "https://tuhakarainab.github.io/kenworth_files/t610.jpg"
+    },
+    {
+      "model": "T909",
+      "tagline": "THE ULTIMATE ROAD TRAIN",
+      "content": "The T909 is the ultimate truck for heavy haulage applications and demanding line haul work. With up to 600Hp on tap, the T909 is perfect for applications where the loads are big, the distances are vast and the demands are extreme. The T909 is the truck that Australian road transport operators have been asking for.",
+      "image": "https://www.spt.co.nz/images/634312/Kenworth-T909.jpg?v=0.4508649479375846"
+    },
+    {
+      "model": "T610SAR",
+      "tagline": "THE NEW T610 SAR",
+      "content": "The T610 SAR is a truck that is made for the harsh Australian outback. With a set-forward front axle, the T610 SAR is all about maximising payload while offering the manoeuvrability needed to operate in the bush. The T610 SAR is the truck for operators who demand the best.",
+      "image": "https://live.staticflickr.com/4202/34067696023_7239f666e8_b.jpg"
+    },
+    {
+      "model": "T410",
+      "tagline": "THE NEW T410",
+      "content": "The T410 is a truck that is made for the city. With a set-back front axle, the T410 is all about maximising payload while offering the manoeuvrability needed to operate in the city. The T410 is the truck for operators who demand the best.",
+      "image": "https://www.spt.co.nz/images/634299/T410_BLUE_RHS_FINAL.jpg?v=0.13407244744353242"
+    }
+]
